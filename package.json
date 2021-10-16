@@ -2,9 +2,9 @@
   "name": "jest-rpg",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "jest": "echo \"Error: no test specified\" && exit 1"
+    "tests": "jest"
   },
   "repository": {
     "type": "git",
